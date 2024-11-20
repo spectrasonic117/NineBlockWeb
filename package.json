@@ -1,0 +1,30 @@
+{
+	"name": "nineblockstudioweb",
+	"type": "module",
+	"version": "1.0.0",
+	"scripts": {
+		"dev": "astro dev --open",
+		"start": "astro dev --open",
+		"build": "astro check && astro build",
+		"preview": "astro preview",
+		"astro": "astro",
+		"lint": "biome lint --write .",
+		"lint:fix": "biome check --write .",
+		"format": "biome format --write ./src"
+	},
+	"devDependencies": {
+		"@astrojs/check": "^0.9.4",
+		"@biomejs/biome": "^1.9.4",
+		"astro": "^4.16.13",
+		"css.normalizer": "^1.0.3",
+		"sass": "^1.81.0",
+		"typescript": "^5.6.3"
+	},
+	"dependencies": {
+		"@astrojs/svelte": "^6.0.1",
+		"@astrojs/tailwind": "^5.1.2",
+		"svelte": "^5.2.5",
+		"tailwind": "^4.0.0",
+		"tailwindcss": "^3.4.15"
+	}
+}
