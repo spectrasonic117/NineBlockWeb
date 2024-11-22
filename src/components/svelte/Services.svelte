@@ -18,7 +18,7 @@
 		<Service_Entry
 			_service_img="/images/servidores.svg"
 			_service_title="Servidores Personalizados"
-			_service_desc="Creamos el servior personalizado y optimizado para tu Evento ó Serie"
+			_service_desc="Creamos el servidor personalizado y optimizado para tu Evento ó Serie"
 		/>
 		<Service_Entry
 			_service_img="/images/gear.svg"
